@@ -2,7 +2,7 @@
   "name": "v-audio",
   "description": "it is learning to introduce audio for supporting vue",
   "version": "1.0.5",
-  "author": "yanghui <yanghui>",
+  "author": "starryYang",
   "license": "MIT",
   "main": "dist/index.js",
   "jsnext:main": "src/index.js",
